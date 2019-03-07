@@ -64,9 +64,8 @@ void apagarFuncionario(int B)
 
     fread(&funcionario, sizeof(FUNCIONARIO), 1, arq);
 
-    for(i=0; (i+1)<B; i++)                                         //Preciso tentar entender esse código mais tarde
+    for(i=0; (i+1)<B; i++)
     {
-        //Foi feito por experimentação.
 
         fwrite(&funcionario, sizeof(FUNCIONARIO), 1, arqAlterado); //Armazena um registro no arquivo.
         fread(&funcionario, sizeof(FUNCIONARIO), 1, arq);
