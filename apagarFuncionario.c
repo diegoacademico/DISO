@@ -1,7 +1,7 @@
 #include "DISO.h"
 
 
-void escolherFuncionario(void)			    //ESTA É A FUNÇÃO APAGAR FUNCIONÁRIO.
+void escolherFuncionario(void)			   //ESTA É A FUNÇÃO APAGAR FUNCIONÁRIO.
 {
 
     FILE *arq;
