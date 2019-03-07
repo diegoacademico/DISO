@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1516037624 source:/home/diego/Documents/DISO/DISO.c
+	"DISO.h"
+
+1516888732 /home/diego/Documents/DISO/DISO.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1516274720 source:/home/diego/Documents/DISO/funcionarios.c
+	"DISO.h"
+
+1516879337 source:/home/diego/Documents/DISO/main.c
+	"DISO.h"
+
+1516879337 source:/home/diego/Documents/DISO/submenus.c
+	"DISO.h"
+
+1515770984 source:/home/diego/Documents/DISO/usuario.c
+	"DISO.h"
+
+1516275442 source:/home/diego/Documents/DISO/relatorio.c
+	"DISO.h"
+
+1516888432 source:/home/diego/Documents/DISO/apagarFuncionario.c
+	"DISO.h"
+
+1516980652 source:c:\users\ifpb\desktop\diso\apagarfuncionario.c
+	"DISO.h"
+
+1516888732 c:\users\ifpb\desktop\diso\diso.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1516980078 source:c:\users\ifpb\desktop\diso\diso.c
+	"DISO.h"
+
+1516274720 source:c:\users\ifpb\desktop\diso\funcionarios.c
+	"DISO.h"
+
+1516980078 source:c:\users\ifpb\desktop\diso\main.c
+	"DISO.h"
+
+1516275442 source:c:\users\ifpb\desktop\diso\relatorio.c
+	"DISO.h"
+
+1516879337 source:c:\users\ifpb\desktop\diso\submenus.c
+	"DISO.h"
+
+1515770984 source:c:\users\ifpb\desktop\diso\usuario.c
+	"DISO.h"
+
+1516983279 source:c:\users\ifpb\desktop\diso2\apagarfuncionario.c
+	"DISO.h"
+
+1516888732 c:\users\ifpb\desktop\diso2\diso.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1516980078 source:c:\users\ifpb\desktop\diso2\diso.c
+	"DISO.h"
+
+1516983279 source:c:\users\ifpb\desktop\diso2\funcionarios.c
+	"DISO.h"
+
+1516980078 source:c:\users\ifpb\desktop\diso2\main.c
+	"DISO.h"
+
+1516981707 source:c:\users\ifpb\desktop\diso2\relatorio.c
+	"DISO.h"
+
+1516879337 source:c:\users\ifpb\desktop\diso2\submenus.c
+	"DISO.h"
+
+1515770984 source:c:\users\ifpb\desktop\diso2\usuario.c
+	"DISO.h"
+
