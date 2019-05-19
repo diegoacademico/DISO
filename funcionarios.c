@@ -11,7 +11,7 @@ void CADASTRO(void)				 //ESTA É A FUNÇÃO QUE GERENCIA O CADASTRO DOS FUNCION
     printf("|              CADASTRAR FUNCIONÁRIOS             |\n");
     printf("|                                                 |\n");
     printf("|                                                 |\n");
-    printf("|           Digite o nome do funcionário:         |\n");
+    printf("|           Digite o nome do:         |\n");
     printf("|                                                 |\n");
     printf("|                                                 |\n");
     printf("|                                                 |\n");
